@@ -1,0 +1,9 @@
+# Asterousia
+extent:
+    min_x: 24.98
+    max_x: 25.24
+    min_y: 34.93 
+    max_y: 35.03
+
+resolution: [10, -10]
+crs: "EPSG:2100"
