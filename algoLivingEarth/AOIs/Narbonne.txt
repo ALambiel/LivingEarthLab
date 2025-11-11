@@ -1,0 +1,10 @@
+# Narbonne
+extent:
+    min_x: 2.65
+    max_x: 3.25
+    min_y: 43.00 
+    max_y: 43.40
+
+resolution: [10, -10]
+crs: "EPSG:2154"
+
